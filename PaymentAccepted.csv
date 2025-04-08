@@ -1,0 +1,18 @@
+PaymentID,Description
+P001,Gift card - in person
+P002,Gift card - online
+P003,Credit Card - in person
+P004,Credit Card - online
+P005,Debit Card - in person
+P006,Debit Card - online
+P007,Cash - in person
+P008,Paypal - online
+P009,Venmo - online
+P010,BitPay
+P011,Check - online
+P012,Money order - online
+P013,Apple Pay - in person
+P014,Apple Pay - online
+P015,Google Pay - in person
+P016,Google Pay - online
+P017,ShopPay - online

@@ -1,0 +1,56 @@
+StoreID,Name,YearOpened,Street,City,State,ZipCode,Hours,Email,PhoneNumber,StillInBusiness
+S001,Bookish,2022,335 NE 5th Ave,Camas,WA,98607,10-4PM,melissa@itsbookish.com,503-329-8449,Yes
+S002,Book 'N' Brush,1969,518 N Market Blvd,Chehalis,WA,98534,11-4PM,BookNBrush@gmail.com,360-748-6221,Yes
+S003,Shakespeare and Company Used Books ,2017,553 N Market Blvd,Chehalis,WA,98532,11-4PM,thesoupison@gmail.com,360-748-4652,Yes
+S004,Kingfisher Bookstore,1983,16 Front St NW Ste. #1155,Coupeville,WA,98239,10-5PM,hello@kingfisherbookstore.com,360-678-8463,Yes
+S005,East West Books and Gifts ,1989,110 3rd Ave N Ste 102,Edmonds,WA,98020,11-6PM,HELLO@EASTWESTSEATTLE.ORG,206-523-3726,Yes
+S006,StoryTime Bookshop,2024,309 W Kennewick Ave,Kennewick,WA,99336,10-5PM,,509-452-7786,Yes
+S007,Page Turner Books,2017,215 1st Ave S,Kent,WA,98032,10-5PM,,253-220-8016,Yes
+S008,Seaport Books,2017,106 1st St,La Conner,WA,98257,10-6PM,,360-399-1799,Yes
+S009,Connections Christian Store,2017,1730 Front St,Lynden,WA,98264,9-6PM,ConnectionsChristianStore@gmail.com,360-366-8917,Yes
+S010,Amen Christian Bookstore,1955,318 State Ave,Marysville,WA,98270,9-6PM,,360-659-3068,Yes
+S011,Lemon Hill Cafe & Bookstore,2022,136 1st St,Montesano,WA,98563,10-4PM,,360-580-6031,Yes
+S012,Sandbox Bookstore and Games,2019,102 E 3rd Ave Suite 104A,Moses Lake,WA,98837,10-6PM,info@sandboxbookstore.com,,Yes
+S013,The Book Rack,1983,551 NE Midway Blvd #4,Oak Harbor,WA,98277,10-7PM,bookrack@whidbey.net,360-675-6705,Yes
+S014,Last Word Books and Press,2002,501 4th Ave East,Olympia,WA,98501,11-6PM,lastwordbooks@gmail.com,360-786-9673,Yes
+S015,Orca Books Cooperative,1993,315 5th Ave SE,Olympia,WA,98501,11-7PM,co-op@orcabooks.com,360-352-0123,Yes
+S016,Pariyatti ,1996,867 Larmon Road,Onalaska,WA,98570,,bookstore@pariyatti.org,360-978-4998,Yes
+S017,Phoenix Rising,1987,696 Water Street,Port Townsend,WA,98368,10-6PM,phoenixrising@olympus.net,360-385-4464,No
+S018,Gene W. Baade Books on the West,1988,824 Lynnwood Ave NE,Renton,WA,98056,,info@booksonthewest.com,425-271-6481,Yes
+S019,Adventures Underground,1999,1391 George Washington Way,Richland,WA,99354,10-7PM,books@advunderground.com,509-946-9893,Yes
+S020,Ada's Technical Books and Cafe,2013,425 15th Avenue East,Seattle,WA,98112,8-8PM,bookseller@adasbooks.com,206-322-1058,Yes
+S021,Arundel Books,1984,322 1st Avenue S.,Seattle,WA,98104,11-7PM,orders@arundelbooks.com,206-624-4442,Yes
+S022,Book Larder,2011,4252 Fremont Avenue N,Seattle,WA,98103,11-6PM,info@booklarder.com,206-397-4271,Yes
+S023,Charlie's Queer Books,2023,465 N 36th St,Seattle,WA,98103,11-7PM,info@charliesqueerbooks.com,206-651-4466,Yes
+S024,Edge of the Circle Books,1992,1307 NE 45th St,Seattle,WA,98105,12-8PM,,206-726-1999,Yes
+S025,Estelita's Library,2018,241 Martin Luther King Jr Way S,Seattle,WA,98144,11-6PM,,415-342-9009,Yes
+S026,Fantagraphics Bookstore and Gallery,2006,1201 South Vale St,Seattle,WA,98108,11:30-8PM,,206-557-4910,Yes
+S027,Lamplight Books,2003,1514 Pike Pl,Seattle,WA,98101,10-5PM,,206-652-5554,Yes
+S028,Left Bank Books,1973,92 Pike Pl,Seattle,WA,98101,11-7PM,,206-622-0195,Yes
+S029,Loving Room Books + Salon,2022,1400 20th Ave,Seattle,WA,98122,12-7PM,lovingroombooks@gmail.com,206-420-3324,Unknown
+S030,Mam's Books,2023,608 Maynard Ave S,Seattle,WA,98104,10-7PM,hello@mamsbooks.com,206-403-5146,
+S032,Open Books: A Poem Emporium,1995,108 Cherry St,Seattle,WA,98104,12-5PM,store@openpoetrybooks.com,206-633-0811,
+S033,Peter Miller Architectural and Design,1978,304 Alaskan Way S. Post Alley,Seattle,WA,98104,10-5PM,peter@petermiller.com,206-441-4114,
+S034,The Wise Owl Books and Music,2020,2223 N 56th St,Seattle,WA,98103,10-6PM,info@thewiseowlbooks.com,206-580-3211,
+S035,The Secret Garden Bookshop,1977,2214 NW Market St,Seattle,WA,98107,11-7PM,bookshop@secretgardenbooks.com,206-789-5006,
+S036,Wishing Tree Books,2019,1410 E 11th Ave,Spokane,WA,99202,10-5PM,books@wishingtreebookstore.com,509-315-9875,
+S038,Jupiter's Eye Book Cafe,2025,411 W 1st Ave,Spokane,WA,99201,10-8PM,jupiterseyebookcafe@gmail.com,,
+S039,North Bank Books,,74 SW Russell Ave. ,Stevenson,WA,98648,10-5PM,northbankbooks@gmail.com,509-219-0602,Yes
+S040,Dightman's Bible Book Center,,2941 S 38th St #B,Tacoma,WA,98409,10-6PM,dbbc@dightmans.com,253-475-0990,Yes
+S041,Vintage Books,1975,6613 E Mill Plain Blvd,Vancouver,WA,98661,10-6PM,books@vintage-books.com,360-694-9519,Yes
+S042,Earthlight Books,1973,321 E Main S,Walla Walla,WA,99362,10-6PM,earthlightbooks@hotmail.com,509-525-4983,Yes
+S043,Book and Game Company,1989, 38 E Main St Suite 101,Walla Walla,WA,99362,10-7PM,info@bookandgame.com,509-529-9963,Yes
+S044,Wanderlust Book Lounge,,10202 NE 185th St,Bothell,WA,98011,11-6PM,hello@wanderlustbooklounge.com,425-205-9643,Yes
+S045,Math 'n' Stuff,1993,8926 Roosevelt Way NE,Seattle,WA,98115,10:51 - 6:01PM,,206-522-8891,Yes
+S046,Little Mountain Books and Botanica,,613 W Division St,Mount Vernon,WA,98273,12-5PM,lilmtnbooks@gmail.com,360-333-6817,Yes
+S047,The Lakewood Bookstore,2024,11017 Bridgeport Way Southwest,Lakewood,WA,98499,10-6PM,info@thelakewoodbookstore.com,253-625-7913,Yes
+S048,Harbor Books,2017, 720 Simpson Ave,Hoquiam,WA,98550,11-5PM,booksontheharbor@gmail.com,360-836-1613,Yes
+S049,Hi Voltage Books and Records,2005,2714 6th Ave,Tacoma,WA,98406,10-7PM,info@hivoltagerecords.com,253-627-4278,Yes
+S050,Couth Buzzard,1988,8310 Greenwood Ave N,Seattle,WA,98103,10-9PM,couthbuzzard@gmail.com,206-436-2960,Yes
+S051,The Romance Era Bookshop,2024,608 N Devine Rd,Vancouver,WA,98661,11-5PM,theromanceera@gmail.com,360-553-1132,Yes
+S052,Kittitas Books,1953,307 Main St,Cle Elum,WA,98934,11-5PM,,509-962-9195,Yes
+S053,Giant Nerd Books,2005,607 W Garland Ave,Spokane,WA,99205,12-6PM,giantnerdbooks @gmail.com,509-868-0420,Yes
+S054,William James Bookseller,1987,829 Water St,Port Townsend,WA,98368,11-5PM,books@WilliamJamesBookseller.com,360-385-7313,Yes
+S055,Kiss The Sky Books,,401 Main St,Sultan,WA,98294,9-6PM,kisstheskybooks@gmail.com,360-243-3608,Yes
+S056,We Be Book'n,2022,19602 US-2,Monroe,WA,98272,9-5PM,bookstoremonroe@gmail.com,360-863-2546,Yes
+S057,Peruse the Stacks,2020,14308 42nd Ave Ct NW,Gig Harbor,WA,98332,By appointment only! ,info@perusethestacks.com,253-232-2745,Yes

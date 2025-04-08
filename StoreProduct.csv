@@ -1,0 +1,299 @@
+StoreID,ProductID,ProductCategory
+S001,PR002,YA
+S001,PR002,Kids
+S001,PR002,Nonfiction
+S001,PR002,Fiction
+S001,PR002,Ebooks
+S001,PR026,Games & Puzzles
+S002,PR049,Tote Bag
+S002,PR012,Greeting Card
+S002,PR002,Paperback
+S002,PR002,Hardcover
+S002,PR002,Boardbook
+S002,PR053,Clothing
+S003,PR002,Books
+S003,PR032,Food/Drink
+S003,PR017,Jewelry
+S004,PR002,Books
+S004,PR003,Books
+S005,PR002,Books
+S005,PR026,Games & Puzzles
+S006,PR002,Books
+S007,PR026,Games & Puzzles
+S007,PR002,Books
+S007,PR004,Manga
+S007,PR026,Puzzles
+S007,PR051,Toys
+S007,PR010,CDs
+S007,PR011,DVDs
+S008,PR002,Books
+S009,PR002,Books
+S009,PR002,Bibles
+S009,PR012,Cards
+S010,PR002,Bibles
+S010,PR002,Books
+S010,PR053,Clothing
+S011,PR002,Books
+S011,PR032,Cafe Item
+S011,PR033,Cafe Item
+S012,PR002,Books
+S012,PR022,Games & Puzzles
+S013,PR022,Games & Puzzles
+S013,PR002,Books
+S014,PR002,Books
+S014,PR026,Games & Puzzles
+S015,PR001,Merchandise
+S015,PR002,"Art, Architecture, and Photography"
+S015,PR002,Biography
+S015,PR002,Business
+S015,PR002,Children's Fiction
+S015,PR003,Children's Fiction
+S015,PR002,Children's Nonfiction
+S015,PR002,Cooking
+S015,PR003,Comics and Graphic Novels
+S015,PR004,Comics and Graphic Novels
+S015,PR005,Comics and Graphic Novels
+S015,PR002,"Crafts, Home, and Collectibles"
+S015,PR002,"Drama, Music, and Performing Arts"
+S015,PR002,Essays and Criticism
+S015,PR002,Family and Relationships
+S015,PR002,Fantasy
+S015,PR002,Fiction
+S015,PR002,Games  and Activities
+S015,PR002,Gardening
+S015,PR002,Health and Fitness
+S015,PR002,History
+S015,PR002,Horror
+S015,PR002,Mystery
+S015,PR002,Pets
+S015,PR002,Poetry
+S015,PR002,Psychology and Self-Help
+S015,PR002,Reference and Study
+S015,PR002,Religion and Spirituality
+S015,PR002,Romance
+S015,PR002,Science Fiction
+S015,PR002,Science and Nature
+S015,PR002,Social Sciences
+S015,PR002,Sports and Receation
+S015,PR002,STEM
+S015,PR002,Thriller
+S015,PR002,Travel
+S015,PR002,True Crime
+S015,PR002,Young Adult Fiction
+S015,PR002,Young Adult Non-fiction
+S016,PR008,Ebooks
+S016,PR009,Audiobooks
+S016,PR006,Meditation Accessories
+S016,PR007,Meditation Accessories
+S016,PR002,Buddha and His Teaching
+S016,PR002,Pali Language
+S016,PR015,Pali Language
+S016,PR009,Audiovisual
+S016,PR010,Audiovisual
+S016,PR011,Audiovisual
+S016,PR012,Gifts and Art
+S016,PR013,Gifts and Art
+S016,PR014,Children
+S017,PR016,Crystals
+S017,PR017,Jewelry
+S017,PR018,Statues
+S017,PR019,More
+S017,PR020,More
+S017,PR002,More
+S018,PR002,Books
+S018,PR002,Childrens
+S019,PR002,Books
+S019,PR021,Games
+S019,PR022,Games
+S019,PR023,Games
+S019,PR024,Games
+S019,PR003,Comics
+S019,PR004,Comics
+S019,PR005,Comics
+S019,PR025,Hobbies
+S019,PR026,Hobbies
+S019,PR027,Hobbies
+S019,PR028,Hobbies
+S019,PR029,Hobbies
+S019,PR002,Children's
+S019,PR021,Children's
+S019,PR022,Children's
+S019,PR028,Art
+S019,PR031,Art
+S019,PR030,Trends/Collectibles
+S019,PR032,Food/Drink
+S019,PR033,Food/Drink
+S019,PR034,Music
+S019,PR010,Music
+S020,PR002,Architecture
+S020,PR002,Biography
+S020,PR003,Biography
+S020,PR002,Business
+S020,PR002,Children's Fiction
+S020,PR035,Children's Fiction
+S020,PR003,Children's Fiction
+S020,PR002,Children's Nonfiction
+S020,PR035,Children's Nonfiction
+S020,PR003,Children's Nonfiction
+S020,PR036,Cooking
+S020,PR003,Comics and Graphic Novels
+S020,PR005,Comics and Graphic Novels
+S020,PR014,Crafts and DIY
+S020,PR037,Crafts and DIY
+S020,PR002,Fantasy
+S020,PR002,Philosophy
+S020,PR002,Science Fiction
+S020,PR002,Science and Nature
+S020,PR002,Social Sciences
+S020,PR002,STEM
+S020,PR002,Young Adult Fiction
+S020,PR003,Young Adult Fiction
+S020,PR004,Young Adult Fiction
+S020,PR005,Young Adult Fiction
+S020,PR002,Young Adult Non-fiction
+S020,PR003,Young Adult Non-fiction
+S020,PR004,Young Adult Non-fiction
+S020,PR005,Young Adult Non-fiction
+S021,PR002,Books
+S022,PR036,$25 And Under
+S022,PR036,Signed Books
+S022,PR036,Imported Books
+S022,PR036,AAPI and Diaspora Authors
+S022,PR036,LGBTQIA+ Voices
+S022,PR036,#amplifymelanatedvoices
+S022,PR038,Magazines
+S022,PR039,All Other Products
+S022,PR040,All Other Products
+S022,PR041,All Other Products
+S023,PR002,Biography & Memoir
+S023,PR002,Body and Mind
+S023,PR035,Childrens Picture Books
+S023,PR036,Cooking
+S023,PR002,Erotica
+S023,PR002,Fantasy
+S023,PR002,Gender and Sexuality
+S023,PR003,Graphic Novels
+S023,PR038,Magazines and Zines
+S023,PR043,Magazines and Zines
+S023,PR004,Manga
+S023,PR002,Middle Grade Fiction
+S023,PR002,Middle Grade Non-Fiction
+S023,PR002,Mystery
+S023,PR002,Sci-Fi
+S023,PR002,Romance
+S023,PR003,Young Adult Graphic Novels
+S023,PR042,Tarot Cards
+S023,PR044,Charlie's Merch
+S023,PR041,Stickers
+S023,PR013,Calendars and Notebooks
+S023,PR045,Calendars and Notebooks
+S023,PR012,Greeting Cards
+S024,PR002,
+S024,PR017,
+S024,PR018,
+S024,PR023,
+S024,PR042,
+S024,PR044,
+S024,PR046,
+S024,PR047,
+S025,PR002,
+S025,PR035,
+S025,PR044,
+S025,PR041,
+S026,PR003,
+S026,PR004,
+S026,PR005,
+S026,PR002,
+S026,PR031,
+S026,PR048,
+S027,PR002,
+S028,PR002,
+S028,PR041,
+S028,PR044,
+S029,PR002,
+S029,PR035,
+S030,PR002,
+S030,PR003,
+S030,PR004,
+S030,PR035,
+S030,PR036,
+S032,PR002,
+S032,PR049,
+S032,PR043,
+S033,PR002,
+S033,PR025,
+S033,PR041,
+S033,PR038,
+S033,PR048,
+S033,PR050,
+S034,PR002,
+S034,PR034,
+S034,PR044,
+S034,PR041,
+S035,PR002,
+S036,PR002,
+S036,PR003,
+S036,PR004,
+S036,PR005,
+S036,PR008,
+S036,PR009,
+S036,PR025,
+S036,PR026,
+S036,PR051,
+S038,PR040,
+S038,PR002,
+S038,PR044,
+S039,PR002,
+S039,PR026,
+S040,PR002,
+S040,PR017,
+S040,PR044,
+S040,PR051,
+S041,PR002,
+S041,PR013,
+S041,PR021,
+S041,PR025,
+S041,PR045,
+S041,PR051,
+S042,PR002,
+S042,PR041,
+S042,PR051,
+S043,PR002,
+S043,PR026,
+S043,PR050,
+S044,PR002,
+S044,PR044,
+S044,PR041,
+S045,PR002,
+S046,PR002,
+S046,PR008,
+S046,PR009,
+S047,PR002,
+S047,PR010,
+S047,PR034,
+S047,PR052,
+S047,PR053,
+S048,PR002,
+S048,PR003,
+S048,PR004,
+S048,PR005,
+S048,PR008,
+S048,PR009,
+S048,PR026,
+S048,PR032,
+S048,PR033,
+S049,PR006,
+S049,PR007,
+S049,PR041,
+S049,PR046,
+S049,PR048,
+S049,PR001,
+S049,PR002,
+S050,PR002,
+S051,PR002,
+S051,PR042,
+S051,PR016,
+S052,PR002,
+S053,PR002,
+S054,PR002,
+S055,PR002,
